@@ -1,0 +1,26 @@
+{
+  "name": "light-night",
+  "displayName": "Light Night",
+  "description": "A dark theme that follows the color logic of VS Code's default light theme: one color = one role.",
+  "version": "1.0.0",
+  "publisher": "dainji",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dainji-dev/light-night"
+  },
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Light Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/light-night-color-theme.json"
+      }
+    ]
+  }
+}
