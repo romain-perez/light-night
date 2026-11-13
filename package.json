@@ -4,6 +4,7 @@
   "description": "A dark theme that follows the color logic of VS Code's default light theme: one color = one role.",
   "version": "1.0.0",
   "publisher": "dainji",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/Dainji-dev/light-night"

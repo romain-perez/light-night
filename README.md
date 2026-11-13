@@ -46,3 +46,7 @@ Update: `git pull` in that folder, then *Developer: Reload Window*.
 ## Credits
 
 Interface colors based on Palenight and Ayu Mirage. Syntax color layout inspired by VS Code's Light+ theme.
+
+## License
+
+[MIT](LICENSE). Includes the copyright notices of Material Palenight Theme and ayu, also under the MIT License.
