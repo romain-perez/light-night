@@ -36,9 +36,9 @@ Clone the repository into the VS Code extensions folder, then reload VS Code and
 
 ```bash
 # Linux / macOS
-git clone https://github.com/Dainji-dev/light-night.git ~/.vscode/extensions/dainji.light-night-1.0.0
+git clone https://github.com/romain-perez/light-night.git ~/.vscode/extensions/dainji.light-night-1.0.0
 # Windows (PowerShell)
-git clone https://github.com/Dainji-dev/light-night.git "$HOME\.vscode\extensions\dainji.light-night-1.0.0"
+git clone https://github.com/romain-perez/light-night.git "$HOME\.vscode\extensions\dainji.light-night-1.0.0"
 ```
 
 Update: `git pull` in that folder, then *Developer: Reload Window*.
